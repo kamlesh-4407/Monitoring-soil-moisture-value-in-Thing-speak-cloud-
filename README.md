@@ -135,7 +135,8 @@ void loop()
 ```
 # CIRCUIT DIAGRAM:
 
-![soilSensor1](https://github.com/user-attachments/assets/fb79a6bf-f452-4c7f-b5d1-5f76b223c944)
+![image](https://github.com/user-attachments/assets/b3b20205-fc29-48e5-9632-95d54fa34712)
+
 
 # OUTPUT:
 
